@@ -1,12 +1,14 @@
 ---
-title: "Untitled"
+title: "Laguna Humantay"
 format: html
 editor: visual
 ---
 
-## Quarto
+## Laguna Humantay
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+A Laguna Humantay é um lago de origem glacial localizado nas montanhas dos Andes peruanos, entre as montanhas Salkantay e Humantay, a mais de 4 mil metros de altitude. É um destino imperdível para quem visita a região de Cusco, pois oferece uma paisagem deslumbrante de água esmeralda cercada por picos nevados, sendo a das mais belas atrações naturais do país um verdadeiro espetáculo para os olhos.\
+
+!\[\](humantay.jpg)
 
 ## Running Code
 
