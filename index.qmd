@@ -17,7 +17,7 @@ O Efeito estufa corresponde a uma camada de gases que cobre a superfície da ter
 1 + 1
 ```
 
-You can add options to executable code like this
+[texto link](pag2.html)
 
 ```{r}
 #| echo: false
