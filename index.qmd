@@ -1,16 +1,17 @@
 ---
-title: "Untitled"
+title: "Aquecimento Global"
 format: html
 editor: visual
 ---
 
-## Quarto
+## Aquecimento Global: o que ér
 
-Quarto you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+O Aquecimento global é o aumento da temperatura média dos oceanos e da camada de ar próxima à superfície da Terra que pode ser consequência de causas naturais e atividades humanas. Isto se deve principalmente ao aumento das emissões de gases na atmosfera que causam o efeito estufa, principalmente o dióxido de carbono (CO2).
 
-## Running Code
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## O que é o Efeito Estufa
+
+O Efeito estufa corresponde a uma camada de gases que cobre a superfície da terra, essa camada composta principalmente por gás carbônico (CO²), metano (CH4), N²O (óxido nitroso) e vapor d água, é um fenômeno natural fundamental para manutenção da vida na Terra, pois sem ela o planeta poderia se tornar muito frio, inviabilizando a sobrevivência de diversas espécies.
 
 ```{r}
 1 + 1
