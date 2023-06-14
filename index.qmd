@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## Aquecimento Global: o que ér
+## Aquecimento Global: o que é
 
 O Aquecimento global é o aumento da temperatura média dos oceanos e da camada de ar próxima à superfície da Terra que pode ser consequência de causas naturais e atividades humanas. Isto se deve principalmente ao aumento das emissões de gases na atmosfera que causam o efeito estufa, principalmente o dióxido de carbono (CO2).
 
@@ -14,14 +14,12 @@ O Aquecimento global é o aumento da temperatura média dos oceanos e da camada 
 O Efeito estufa corresponde a uma camada de gases que cobre a superfície da terra, essa camada composta principalmente por gás carbônico (CO²), metano (CH4), N²O (óxido nitroso) e vapor d água, é um fenômeno natural fundamental para manutenção da vida na Terra, pois sem ela o planeta poderia se tornar muito frio, inviabilizando a sobrevivência de diversas espécies.
 
 ```{r}
-1 + 1
 ```
 
-[texto link](pag2.html)
+[pagina 2](pag2.html)
 
 ```{r}
 #| echo: false
 2 * 2
 ```
 
-The `echo: false` option disables the printing of code (only output is displayed).
