@@ -7,5 +7,4 @@ editor: visual
 ## Produção da Soja no Rio Grande do Sul
 
 O objetivo do presente artigo é analisar as alterações ocasionadas pelo Boom das Commodities na distribuição espacial da produção da soja no estado do Rio Grande do Sul (RS), Brasil, através de análise exploratória de dados espaciais (AEDE), bem como identificar a formação de clusters nos anos de 2000, 2004, 2005 e 2010. Para tanto, foram utilizados dados secundários da Produção Agrícola Municipal, obtidos no site do Instituto Brasileiro de Geografia e Estatística (IBGE), em que se analisou o valor da produção da soja por meio da análise do índice de Moran.\
-\
-\[apresentacao_tarefa3\](apres_tar3.html)
+[apresentacao_tarefa3](apres_tar3.qmd)
