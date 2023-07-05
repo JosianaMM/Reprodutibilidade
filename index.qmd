@@ -6,10 +6,7 @@ editor: visual
 
 ## 
 
-
 ## 
-
-
 
 ```{r}
 ```
@@ -20,4 +17,3 @@ editor: visual
 #| echo: false
 2 * 2
 ```
-
