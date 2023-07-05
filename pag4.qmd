@@ -1,0 +1,38 @@
+title: Abundância relativa de ocorrência de tartarugas marinhas a partir de avistagens em pontos fixos  
+subtitle: Do conhecer ao preservar
+format: pdf
+author:
+  - name: Letícia Verônica dos Santos
+    email: leticia.veronica@outlook.com
+    affiliations:
+        - id: some-tech
+          name: Universidade Federal do Rio Grande - FURG
+          department: Programa de Pós Graduação em Ambientometria
+          address: Avenida Itália km8
+          city: Rio Grande
+          state: Rio Grande do Sul
+          postal-code: 96203-535
+    attributes:
+        corresponding: true
+
+---        
+       
+ 
+       
+**Abstract:**
+Atualmente existem sete espécies de tartarugas marinhas no mundo e apenas cinco com ocorrência no Brasil: a tartaruga-cabeçuda (*Caretta caretta*); a tartaruga-verde (*Chelonia mydas*); a tartaruga-de-pente (*Eretmochelys imbricata*); a  tartaruga-de-couro (*Dermochelys coriacea*) e a tartaruga-oliva (*Lepidochelys olivacea*). Tais espécies escolhem o litoral brasileiro para desova (ICMBIO), assim como para atividades de alimentação e ‘sociabilização’ (Caminho Marinho). A espécie *Chelonia mydas*, é a que predomina nas amostragens em locais de alimentação no litoral sul do Brasil. O objetivo deste trabalho é ***avaliar a variabilidade da abundância relativa de ocorrência de tartarugas marinhas na praia de Itapirubá-SC***, buscando encontrar maiores ou menores probabilidades de ocorrência de acordo com parâmetros oceanográficos, ambientais, atmosféricos e sazonais. A análise utilizará o método de *Distribuição de Poisson*, o qual irá avaliar a distribuição discreta de probabilidade aplicável a ocorrências de um número de eventos em um intervalo específico.
+
+keywords:
+   tartarugas marinhas,
+   "Chelonia mydas",
+   litoral brasileiro
+
+
+# Bibliography styles
+
+<- model1a-num-names.bst
+<- elsarticle-template-1a-num.tex
+
+WOOD, Simon N. Generalized additive models: an introduction with R. 2006.
+
+ZUUR, A. F.; SAVELIEV, A. A.; IENO, E. N. A Begginner’s Guide to Generalised Additive Mixed Model with R. 2014

@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage[portuguese]{babel}
+\title{A produtibilidade de soja no Rio Grande do Sul}
+\author{Josiana}
+
+\begin{document}
+
+\maketitle
+
+\abstract{Resumo do artigo}
+
+\section{Introdução}
+A soja é uma planta originária da costa leste da Ásia, principalmente ao longo do rio Yangtse, na China. Devido a cruzamentos naturais entre espécies, ela foi sendo domesticada e melhorada por cientistas da antiga China. Os primeiros grãos surgiram no período entre 2883 e 2838 AC, sendo a soja considerada um grão sagrado (EMBRAPA).
+A expansão para a Europa se deu no ano de 1739 e nos Estados Unidos em 1765. Já no Brasil, em meados de 1882, na Bahia. E no Rio Grande do Sul surgiu em 1914
+
+\subsection{teste}
+\begin{equation}
+\frac{2x+3}{2}
+\end{equation}
+
+\end{document}
