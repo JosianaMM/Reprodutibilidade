@@ -330,26 +330,17 @@
 </div>
 
 </section>
-<section id="quarto" class="slide level2">
-<h2>Quarto</h2>
-<p>Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <a href="https://quarto.org/docs/presentations/" class="uri">https://quarto.org/docs/presentations/</a>.</p>
+<section id="resumo" class="slide level2">
+<h2>Resumo</h2>
+<p>O objetivo do presente artigo é analisar as alterações ocasionadas pelo Boom das Commodities na distribuição espacial da produção da soja no estado do Rio Grande do Sul (RS), Brasil, através de análise exploratória de dados espaciais (AEDE), bem como identificar a formação de clusters nos anos de 2000, 2004, 2005 e 2010. Para tanto, foram utilizados dados secundários da Produção Agrícola Municipal, obtidos no site do Instituto Brasileiro de Geografia e Estatística (IBGE), em que se analisou o valor da produção da soja por meio da análise do índice de Moran.</p>
 </section>
-<section id="bullets" class="slide level2">
-<h2>Bullets</h2>
-<p>When you click the <strong>Render</strong> button a document will be generated that includes:</p>
-<ul>
-<li>Content authored with markdown</li>
-<li>Output from executable code</li>
-</ul>
+<section id="introdução" class="slide level2">
+<h2>Introdução</h2>
+<p>No contexto internacional, o Brasil é considerado um dos maiores produtores de commodities, essa posição é resultado de vantagens provenientes dos fatores edafoclimáticos, culturais, ambientais e aos ganhos de produtividade que decorreram da incorporação de tecnologias de elevado padrão no cultivo das principais culturas. O desempenho do setor agropecuário tem impactos importantes no cenário econômico brasileiro, pois através desse setor se gera divisas de exportações, contribui para a recuperação da economia nos momentos de crise dos demais setores e, ainda possibilita a manutenção do poder de compra da população, via controle dos patamares de inflação.</p>
 </section>
-<section id="code" class="slide level2">
-<h2>Code</h2>
-<p>When you click the <strong>Render</strong> button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:</p>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+<section id="metodologia" class="slide level2">
+<h2>Metodologia</h2>
+<p>Explorando as ferramentas da econometria espacial A econometria espacial difere da tradicional por incorporar variáveis que captam os efeitos da autocorrelação e heterocedasticidade espaciais do modelo. Dessa maneira, possibilita estimar se uma variável de determinada localidade sofre alguma influência da mesma variável de uma localidade próxima. Para analisar-se os efeitos espaciais da produção de soja no Rio Grande do Sul, se fazem necessários esclarecimentos a respeito de conceitos importantes e que são elucidados ao longo da presente seção.</p>
 <div class="footer footer-default">
 
 </div>
@@ -565,44 +556,6 @@
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        // dispatch for htmlwidgets
-        function fireSlideEnter() {
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-        }
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-          fireSlideEnter();
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {

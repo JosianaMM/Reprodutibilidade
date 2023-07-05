@@ -4,21 +4,37 @@ format: revealjs
 editor: visual
 ---
 
-## Quarto
+## Resumo
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+O objetivo do presente artigo é analisar as alterações ocasionadas pelo
+Boom das Commodities na distribuição espacial da produção da soja no estado do
+Rio Grande do Sul (RS), Brasil, através de análise exploratória de dados espaciais
+(AEDE), bem como identificar a formação de clusters nos anos de 2000, 2004, 2005
+e 2010. Para tanto, foram utilizados dados secundários da Produção Agrícola
+Municipal, obtidos no site do Instituto Brasileiro de Geografia e Estatística (IBGE),
+em que se analisou o valor da produção da soja por meio da análise do índice de
+Moran. 
 
-## Bullets
 
-When you click the **Render** button a document will be generated that includes:
+## Introdução
 
--   Content authored with markdown
--   Output from executable code
+No contexto internacional, o Brasil é considerado um dos maiores produtores
+de commodities, essa posição é resultado de vantagens provenientes dos fatores
+edafoclimáticos, culturais, ambientais e aos ganhos de produtividade que
+decorreram da incorporação de tecnologias de elevado padrão no cultivo das
+principais culturas. O desempenho do setor agropecuário tem impactos importantes
+no cenário econômico brasileiro, pois através desse setor se gera divisas de
+exportações, contribui para a recuperação da economia nos momentos de crise dos
+demais setores e, ainda possibilita a manutenção do poder de compra da população,
+via controle dos patamares de inflação.
 
-## Code
+## Metodologia
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
+Explorando as ferramentas da econometria espacial
+A econometria espacial difere da tradicional por incorporar variáveis que
+captam os efeitos da autocorrelação e heterocedasticidade espaciais do modelo.
+Dessa maneira, possibilita estimar se uma variável de determinada localidade sofre
+alguma influência da mesma variável de uma localidade próxima. Para analisar-se
+os efeitos espaciais da produção de soja no Rio Grande do Sul, se fazem
+necessários esclarecimentos a respeito de conceitos importantes e que são
+elucidados ao longo da presente seção.
