@@ -1,13 +1,20 @@
 ---
-title: "Produtibilidade de soja no estado do Rio Grande do Sul: uma análise estatística espacial de 1981 a 2010"
-author: "Josiana"
-format: 
-  html:
-    toc: true
-    toc-location: left
-    toc-depth: 3
-    toc-title: Contents
+title: "Josiana M. de Moraes"
+subtitle: "Josiana"
+format: html
 engine: knitr
+toc: true
+toc-title: Conteúdo
+toc-location: left
+number-sections: true
+number-depth: 2
+theme: default
+mainfont: georgia
+fontcolor: black
+linkcolor: blue
+fontsize: 1.1em
+linestretch: 1.7
+backgroundcolor: pink
 ---
 
 ## Quem sou eu
