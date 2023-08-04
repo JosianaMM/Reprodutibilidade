@@ -14,7 +14,7 @@ fontcolor: black
 linkcolor: blue
 fontsize: 1.1em
 linestretch: 1.7
-backgroundcolor: pink
+backgroundcolor: pink1
 ---
 
 ## Quem sou eu
