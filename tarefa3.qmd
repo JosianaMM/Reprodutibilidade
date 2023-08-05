@@ -1,5 +1,5 @@
 ---
-title: "Produtibilidade de soja"
+title: "Reprodutibilidade Científica no R"
 format: html
 editor: visual
 ---
